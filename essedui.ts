@@ -1,0 +1,3 @@
+type Incomes = {
+  [Streams]: number;
+};
